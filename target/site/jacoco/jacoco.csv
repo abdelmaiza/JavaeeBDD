@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+BDD,com.pluralsight.bddfundamentals.airport,EconomyFlight,15,4,2,0,4,2,3,1,2,1
+BDD,com.pluralsight.bddfundamentals.airport,Passenger,6,9,0,0,2,4,2,1,2,1
+BDD,com.pluralsight.bddfundamentals.airport,BusinessFlight,16,0,2,0,6,0,4,0,3,0
+BDD,com.pluralsight.bddfundamentals.airport,Flight,11,14,0,0,5,5,3,2,3,2
